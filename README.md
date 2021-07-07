@@ -9,6 +9,6 @@
  
 <div> 
   
-  ![Snake animation](https://github.com/MatheusPignata/MatheusPignata/blob/output/github-user-contribution.svg)
+  ![Snake animation](https://github.com/MatheusPignata/MatheusPignata/blob/output/github-user-main.svg)
  
 </div>
