@@ -43,6 +43,7 @@
 <div align="center">
 
   <!-- ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg) -->
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/MatheusPignata/MatheusPignata/output/github-contribution-grid-snake-dark.svg">
   
 </div>
 
