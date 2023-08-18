@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/matheuspignata22/"><i>Matheus</i></a> 🫡</h1>
+  <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/matheuspignata22/"><i>Matheus</i></a> ☜(ﾟヮﾟ☜)</h1>
   <p align="center">I am a programming student and I use this profile to store most of my studies and work, feel free to check! 😉️</h2>
 </div>
 
