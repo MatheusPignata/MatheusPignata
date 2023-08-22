@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusPignata&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusPignata&show_icons=true&include_all_commits=true&theme=radical"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPignata&theme=radical&hide_border=false&&layout=compact"/><br />
     <img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
 </div>
